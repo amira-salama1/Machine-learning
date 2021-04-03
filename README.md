@@ -1,2 +1,2 @@
 # Machine-learning
-A repo for regression and Classification machine learning attempts
+A repo for Supervised and Unsupervised machine learning Models and Results
