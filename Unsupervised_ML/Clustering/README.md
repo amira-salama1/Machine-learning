@@ -1,8 +1,8 @@
 Abstract: This is a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
 
-Source: https://archive.ics.uci.edu/ml/datasets/online+retail#
+DAta Source: https://archive.ics.uci.edu/ml/datasets/online+retail#
 
-Task :Clustering Experiments on Big Transaction Data for Market Segmentation,
+Task :Clustering Experiments on Big Transaction Data for Market/Customer Segmentation,
 
 **Customer segmentation** is one of the most important tasks in any business, gaining insights into your customers' purchasing behavior and/or understanding reasons for churn, customer retention, seamless customer experience and bottlenecks to customers' base growth is crucial for all areas concerning that business.
 
