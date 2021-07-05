@@ -16,5 +16,5 @@
 [Source](https://www.lightercapital.com/blog/what-is-cohort-analysis/) 
 
 
->RFM Analaysis(Recency, frecuency and Monetary):
+>RFM Analaysis(Recency, frequency and Monetary):
 - Performed on the same dataset for Customer Segmentation using K-means Clustering Unsupervised Machine learning Model, which resulted in 7 clusters
