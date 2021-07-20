@@ -1,6 +1,6 @@
 Source : [Kaggle](https://www.kaggle.com/pankajjsh06/ibm-watson-marketing-customer-value-data)
 
-- Originally this data set is from IBM watson Datasets but it's source is not anymore 
+- Originally this data set is from IBM watson Datasets but it's source is not anymore available.
 
 Using IBM Watson Analytics, you can predict behavior to retain your customers. You can analyze all relevant customer data and develop focused customer retention programs.
 
