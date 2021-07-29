@@ -18,7 +18,7 @@ Important Note:
 Code references and inspirations from [Tern Poh Lim's](https://towardsdatascience.com/the-most-important-data-science-tool-for-market-and-customer-segmentation-c9709ca0b64a) Article in Towards Data Science
 
 
-In the Second Notebook , [Retail_Dataset RFM Segmentation+ Kmeans Clustering](https://github.com/amira-salama1/Machine-learning/blob/main/Unsupervised_ML/Clustering/Retail_Dataset%20RFM%20Segmentation%2B%20Kmeans%20Clustering.ipynb), I've illustrated 3 approaches to RFM Analysis, with thier interpretation
+In the Second Notebook , [Retail_Dataset RFM Segmentation+ Kmeans Clustering](https://github.com/amira-salama1/Machine-learning/blob/main/Unsupervised_ML/Clustering/Retail_Dataset%20RFM%20Segmentation%2B%20Kmeans%20Clustering.ipynb), I've illustrated 3 approaches to RFM Analysis, and their interpretation
 
 
 Dashboard using Google Data Studio featuring RFM analysis and Customer Segmentation:
